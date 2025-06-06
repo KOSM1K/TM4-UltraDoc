@@ -1,0 +1,39 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Formal languages}{3}{section.1}%
+\contentsline {section}{\numberline {2}Operations on formal languages}{3}{section.2}%
+\contentsline {section}{\numberline {3}Regular languages}{3}{section.3}%
+\contentsline {section}{\numberline {4}Closure properties of regular languages}{3}{section.4}%
+\contentsline {section}{\numberline {5}Pumping lemma}{4}{section.5}%
+\contentsline {section}{\numberline {6}Regular expressions}{4}{section.6}%
+\contentsline {section}{\numberline {7}Deterministic finite automata (DFA)}{5}{section.7}%
+\contentsline {section}{\numberline {8}Non-deterministic finite automata (NFA)}{5}{section.8}%
+\contentsline {section}{\numberline {9}Rabin--Scott powerset construction}{5}{section.9}%
+\contentsline {section}{\numberline {10}Epsilon-NFA}{5}{section.10}%
+\contentsline {section}{\numberline {11}NFA construction from epsilon-NFA}{5}{section.11}%
+\contentsline {section}{\numberline {12}Kleene’s theorem}{6}{section.12}%
+\contentsline {section}{\numberline {13}Kleene’s algorithm}{6}{section.13}%
+\contentsline {section}{\numberline {14}Thompson’s construction}{6}{section.14}%
+\contentsline {section}{\numberline {15}Ordered arrangements}{6}{section.15}%
+\contentsline {section}{\numberline {16}Permutations and cyclic permutations}{6}{section.16}%
+\contentsline {section}{\numberline {17}Unordered arrangements}{7}{section.17}%
+\contentsline {section}{\numberline {18}Multisets}{7}{section.18}%
+\contentsline {section}{\numberline {19}Combinations of infinite multisets}{7}{section.19}%
+\contentsline {section}{\numberline {20}Multinomial theorem}{7}{section.20}%
+\contentsline {section}{\numberline {21}Compositions}{7}{section.21}%
+\contentsline {section}{\numberline {22}Set partitions and Stirling numbers of the second kind}{8}{section.22}%
+\contentsline {section}{\numberline {23}Bell numbers}{8}{section.23}%
+\contentsline {section}{\numberline {24}Integer partitions}{8}{section.24}%
+\contentsline {section}{\numberline {25}Principle of Inclusion-Exclusion}{8}{section.25}%
+\contentsline {section}{\numberline {26}Recurrence relations}{8}{section.26}%
+\contentsline {section}{\numberline {27}Solving recurrence relations using characteristic equations}{9}{section.27}%
+\contentsline {section}{\numberline {28}Generating functions}{9}{section.28}%
+\contentsline {section}{\numberline {29}Solving linear recurrences using generating functions}{9}{section.29}%
+\contentsline {section}{\numberline {30}Solving combinatorial problems using generating functions}{9}{section.30}%
+\contentsline {section}{\numberline {31}Operators and annihilators}{10}{section.31}%
+\contentsline {section}{\numberline {32}Solving linear recurrences using annihilators}{10}{section.32}%
+\contentsline {section}{\numberline {33}Catalan numbers}{10}{section.33}%
+\contentsline {section}{\numberline {34}Generalized binomial theorem}{10}{section.34}%
+\contentsline {section}{\numberline {35}Gamma function}{11}{section.35}%
+\contentsline {section}{\numberline {36}Divide-and-Conquer algorithms analysis using recursion trees}{11}{section.36}%
+\contentsline {section}{\numberline {37}Master theorem}{11}{section.37}%
+\contentsline {section}{\numberline {38}Akra–Bazzi method}{11}{section.38}%
